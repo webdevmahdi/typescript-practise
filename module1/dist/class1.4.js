@@ -1,0 +1,12 @@
+"use strict";
+let fullName = "Mahdi hasan mahdi";
+let phoneNumber = 1766588581;
+let dacimal = true;
+const x = undefined;
+const z = null;
+let b;
+let myFriends = ['Mahdi', 'Bayzid', 'Mahedi'];
+myFriends.push('Khal');
+let theirRoll = [30, 94, 78, 83];
+theirRoll.push(39);
+let weightAndName = [20, "mahdi", undefined];
